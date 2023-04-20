@@ -19,3 +19,16 @@
     font-size: 20px;
     margin: 0;
 }
+
+.row-SOCIALS a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+.row-SOCIALS a:hover {
+    background-color: red;
+    
+}
